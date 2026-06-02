@@ -13,6 +13,7 @@ You can download the latest available version from the **Releases** section.
 
 - **v0.1** - Playable up to the first Gym
 - **v0.2** - Playable up to the second Gym
+- **v0.3.1** - Playable up to the third Gym's city
 
 ## Important Notice
 
